@@ -69,7 +69,7 @@ class ProductManager {
 
 const manager = new ProductManager();
 
-// Agregar productos
+
 const product1 = manager.addProduct(
   "Alimento Pro Plan Perro Adulto Pequeño",
   "Su ingrediente principal es el pollo, que aporta un alto contenido de proteínas y la cantidad adecuada de grasa",

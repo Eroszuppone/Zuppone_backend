@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Alimento Pro Plan Perro Adulto Pequeño",
+    "description": "Su ingrediente principal es el pollo, que aporta un alto contenido de proteínas y la cantidad adecuada de grasa",
+    "price": 20000,
+    "thumbnail": "http://imagen.jpg",
+    "code": "PROD-001",
+    "stock": 4
+  },
+  {
+    "id": 2,
+    "title": "Excellent Smart Gato Adulto",
+    "description": "Alimento completo y balanceado a base de proteínas de alta calidad provenientes del pollo y el arroz como principales ingredientes.",
+    "price": 15000,
+    "thumbnail": "http://imagen.jpg",
+    "code": "PROD-002",
+    "stock": 5
+  },
+  {
+    "id": 1,
+    "title": "Nuevo producto",
+    "description": "Descripción del nuevo producto",
+    "price": 300,
+    "thumbnail": "Imagen del nuevo producto",
+    "code": "DEF-789",
+    "stock": 10
+  }
+]
